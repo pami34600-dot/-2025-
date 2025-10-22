@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cju\\Github\\-2025-\\Project8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA30417-533E-4937-B745-8A64C5CC9359}|Project8\\Project8.vcxproj|C:\\Users\\Cju\\Github\\-2025-\\Project8\\Project8\\project8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAA30417-533E-4937-B745-8A64C5CC9359}|Project8\\Project8.vcxproj|solutionrelative:Project8\\project8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "project8.cpp",
+              "DocumentMoniker": "C:\\Users\\Cju\\Github\\-2025-\\Project8\\Project8\\project8.cpp",
+              "RelativeDocumentMoniker": "Project8\\project8.cpp",
+              "ToolTip": "C:\\Users\\Cju\\Github\\-2025-\\Project8\\Project8\\project8.cpp",
+              "RelativeToolTip": "Project8\\project8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T00:18:17.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
