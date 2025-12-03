@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cju\\Github\\-2025-\\Project13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{674330C2-6330-4CED-8B8A-921431F16539}|Project13\\Project13.vcxproj|C:\\Users\\Cju\\Github\\-2025-\\Project13\\Project13\\project13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{674330C2-6330-4CED-8B8A-921431F16539}|Project13\\Project13.vcxproj|solutionrelative:Project13\\project13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "project13.cpp",
+              "DocumentMoniker": "C:\\Users\\Cju\\Github\\-2025-\\Project13\\Project13\\project13.cpp",
+              "RelativeDocumentMoniker": "Project13\\project13.cpp",
+              "ToolTip": "C:\\Users\\Cju\\Github\\-2025-\\Project13\\Project13\\project13.cpp",
+              "RelativeToolTip": "Project13\\project13.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-12T00:20:28.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
